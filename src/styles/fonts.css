@@ -1,6 +1,4 @@
 :root {
-  --font-display-family: Cinzel, serif;
-  --font-body-family: Cormorant Garamond, serif;
-  --font-display: var(--font-display-family);
-  --font-body: var(--font-body-family);
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Manrope", sans-serif;
 }
